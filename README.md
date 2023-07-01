@@ -9,10 +9,12 @@
 - [Filmoteka](https://bodia123.github.io/Filmoteka-react/) [[Github](https://github.com/Bodia123/Filmoteka-react)]
 
 | **GitHub Analytics** |
+|---------------|
 | ![Statistic](https://github-readme-stats.vercel.app/api/top-langs/?username=bodia123&layout=compact&theme=github_dark&border_color=1d1d1f&card_width=400) |
 
 
 | **Languages** |
+|---------------|
 | <img src="https://user-images.githubusercontent.com/96209694/197349404-84265127-4f0e-4c09-870c-b8fa2aa1fdde.png" style="width:50px; height:50px"> <img src="https://user-images.githubusercontent.com/96209694/197349416-a35cbd14-1553-49d3-b4e1-43c50f50bb7e.png" style="width:50px; height:50px"> <img src="https://user-images.githubusercontent.com/96209694/197349421-fe45089b-2d88-4c5a-bc91-84cec9f67fd0.png" style="width:50px; height:50px"> <img src="https://user-images.githubusercontent.com/96209694/197349430-7ebc6bc6-feec-4442-bc84-d78dd70f4595.png" style="width:50px; height:50px"> |
 
 ### Connect with me
