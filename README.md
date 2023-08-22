@@ -1,10 +1,6 @@
 
 ### Hi there, I'm Bogdan 👋
 
-- 🌱 I’m currently learning **Node.js**
-- 🤔 I’m looking for help with **something :)**
-- 📫 How to reach me: **bogdan.zinovkin.work@gmail.com**
-- ⚡ Fun fact: **I have been interested in front-end development since 2016, but I fully immersed myself in it only in 2023 :)**
 ### Pet projects 
 - [Filmoteka](https://bodia123.github.io/Filmoteka-react/) [[Github](https://github.com/Bodia123/Filmoteka-react)]
 - [WeatherApp](https://bodia123.github.io/Weather/)  [[Github](https://github.com/Bodia123/Weather)]
