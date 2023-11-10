@@ -6,7 +6,6 @@
 - [Hangman Game](https://bodia123.github.io/Hangman/) [[GitHub](https://github.com/Bodia123/Hangman)]
 - [WeatherApp](https://bodia123.github.io/Weather/)  [[Github](https://github.com/Bodia123/Weather)]
 - [Fake-Shop](https://bodia123.github.io/FakeShop/) [[Github](https://github.com/Bodia123/FakeShop)]
-- [ContactSync](https://bodia123.github.io/goit-react-hw-07-phonebook/) [[Github](https://github.com/Bodia123/goit-react-hw-07-phonebook)]
 ---
 
 | **GitHub Analytics** | **Languages** |
